@@ -1,0 +1,50 @@
+@media (max-width: 700px) {
+
+    .header_main {
+        padding: 5%;
+    }
+
+    .products {
+        display: inherit;
+        height: auto;
+    }
+
+    .product {
+        margin-top: auto;
+    }
+
+    .categories {
+        display: inherit;
+        height: auto;
+    }
+
+    .category {
+        margin-top: auto;
+    }
+
+    .mentions {
+        display: inherit;
+        height: auto;
+    }
+
+    .mention {
+        margin-top: auto;
+    }
+}
+
+/* -------------------- Table -------------------- */
+
+@media (max-width: 820px) {
+
+    /* .header_main {
+        
+    }
+
+    .products {
+        
+    }
+
+    .product {
+       
+    } */
+} 

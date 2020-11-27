@@ -1,0 +1,36 @@
+@import url(main.css);
+@import url(footer.css);
+
+html, body{
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+    font-family: Helvetica;
+    background-color: gainsboro;
+}
+
+.navigator {
+    display: flex;
+    background-color: #7ACC2D; 
+    padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.list {
+    display: flex;
+}
+
+.list li {
+    padding-left: 15px;
+    list-style: none;
+}
+
+.list li a {
+    color: black;
+    text-decoration: none;
+}
+
+.list li a:hover {
+    color: honeydew;
+}

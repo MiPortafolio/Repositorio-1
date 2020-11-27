@@ -1,0 +1,90 @@
+/* -------------------- Header Main -------------------- */
+.header_main {
+    padding: 10%;
+    text-align: center;
+}
+
+/* -------------------- Tarjetas -------------------- */
+.products {
+    padding: 15%;
+    display: flex;
+    height: 200px;
+}
+
+.product {
+    padding: 10px;
+    margin-top: -200px;
+}
+
+.content_product {
+    background-color: honeydew;
+    padding: 15px;
+    box-shadow: 0 0 3px gainsboro;
+}
+
+.img_content {
+    text-align: center;
+}
+
+.content_product a {
+    text-decoration: none;
+}
+
+.button {
+    background-color: #7ACC2D;
+    width: 100%;
+    padding: 10px;
+    color: honeydew;
+    border: 0;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.button:hover {
+    background-color: #5e9e22;
+}
+
+/* -------------------- Categorias -------------------- */
+
+.categories {
+    padding: 15%;
+    display: flex;
+    background-color: honeydew;
+    height: 200px;
+    
+}
+
+.category {
+    padding: 10px;
+}
+
+.content_category {
+    text-align: center;
+    background-color: gainsboro;
+    padding: 15px;
+    box-shadow: 0 0 3px honeydew;
+}
+
+/* -------------------- Menciones -------------------- */
+
+.title {
+    text-align: center;
+}
+
+.mentions {
+    padding: 10%;
+    display: flex;
+    background-color: gainsboro;
+    
+}
+
+.mention {
+    padding: 5px;
+}
+
+.content_mention {
+    /* text-align: center; */
+    background-color: honeydew;
+    padding: 15px;
+    box-shadow: 0 0 3px gainsboro;
+}
